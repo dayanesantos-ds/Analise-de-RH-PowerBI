@@ -7,8 +7,7 @@ Desenvolvimento de um **dashboard gerencial de Recursos Humanos** com foco em ac
 # 🔗 Acesse o Dashboard Online
 
 👉 Visualize o painel publicado no Power BI Service:  
-https://app.powerbi.com/view?r=eyJrIjoiN2M2MGE4ZWEtOGQ2Ny00OTczLTg0M2MtMWJjMzM3ZDFiMWM2IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9
-
+[Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2M2MGE4ZWEtOGQ2Ny00OTczLTg0M2MtMWJjMzM3ZDFiMWM2IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 ---
 
 ## 🎯 Objetivo do Projeto

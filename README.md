@@ -71,7 +71,7 @@ Este projeto demonstra o uso das seguintes tecnologias e habilidades:
 ## 📂 Arquivos do Projeto
 
 - [`BaseFuncionarios.xlsx`](https://github.com/dayanesantos-ds/analise-de-rh-dashboard/blob/main/aquivos-do-projeto/BaseFuncionarios.xlsx)
-- [`Dashboard RH.pbix`](files/Dashboard%20RH.pbix)
+- [`Dashboard RH.pbix`](https://github.com/dayanesantos-ds/analise-de-rh-dashboard/blob/main/aquivos-do-projeto/Dashboard%20RH.pbix)
 
 ---
 

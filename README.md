@@ -10,6 +10,8 @@ Desenvolvimento de um **dashboard gerencial de Recursos Humanos** com foco em ac
 
 [Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2M2MGE4ZWEtOGQ2Ny00OTczLTg0M2MtMWJjMzM3ZDFiMWM2IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 ---
+📌 Visualização do Dashboard (print):  
+![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-de-RH-PowerBI/blob/main/aquivos-do-projeto/Print%20Dashboard%20RH.png)
 
 ## 🎯 Objetivo do Projeto
 

@@ -1,90 +1,150 @@
-# 📊 Dashboard de RH — Análise Estratégica de Workforce
+# Dashboard de RH — Análise Estratégica de Workforce
+Descrição do Projeto
 
-Desenvolvimento de um **dashboard gerencial de Recursos Humanos** com foco em acompanhamento estratégico de funcionários. O projeto foi desenvolvido no **Power BI** como parte de um projeto simulado com aplicação prática em cenários reais de RH.
+Este projeto uma análise a partir de dados fictícios de colaboradores, com foco no acompanhamento de contratações, desligamentos, rotatividade e perfil do quadro de funcionários.
+
+A solução foi construída com foco em análise de dados aplicada à gestão de pessoas, permitindo uma visão clara e estratégica dos principais indicadores de RH que apoiam a tomada de decisão gerencial.
 
 ---
 
-## 🔗 Acesse o Dashboard Online
+##  Acesse o Dashboard Online
 
 👉 Visualize aqui:  
 
 [Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2M2MGE4ZWEtOGQ2Ny00OTczLTg0M2MtMWJjMzM3ZDFiMWM2IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
+
 ---
-📌 Visualização do Dashboard (print):  
+
+## Visualização do Dashboard (print):  
 ![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-de-RH-PowerBI/blob/main/aquivos-do-projeto/Print%20Dashboard%20RH.png)
 
-## 🎯 Objetivo do Projeto
+---
 
-Fornecer uma visão consolidada dos principais indicadores de pessoas, apoiando decisões estratégicas relacionadas a:
+## Objetivo da Análise
 
-- 👥 **Funcionários Ativos**
-- 🔁 **Turnover (Rotatividade)**
-- ➕ **Quantidade de Contratações**
+O objetivo deste projeto é analisar indicadores estratégicos de Recursos Humanos, fornecendo uma visão clara sobre a composição do quadro de colaboradores e a dinâmica de movimentação interna, com foco em:
 
-O dashboard também permite a análise do perfil do time por **cidade, gênero e hierarquia/cargo**, contribuindo para o monitoramento de RH.
+• Acompanhamento de contratações e desligamentos
+
+• Monitoramento da rotatividade (turnover)
+
+• Análise do número de funcionários ativos
+
+• Distribuição de colaboradores por cargo, área e cidade
+
+• Análise do perfil por gênero
+
+• Apoio à tomada de decisão na gestão de pessoas
 
 ---
 
-## 🧠 Principais Insights e Indicadores
+## Ferramentas Utilizadas
 
-Os indicadores de maior relevância no painel incluem:
+### Microsoft Excel
+• Organização inicial da base de dados
 
-- Total de **Funcionários Ativos**
-- Quantidade de **Contratações no período**
-- Número de **Desligamentos**
-- **Taxa de Turnover**
-- Distribuição por:
-  - 📍 **Cidade**
-  - 🚻 **Gênero**
-  - 🧩 **Hierarquia / Cargo**
+• Validação e estruturação das informações
 
-Esses indicadores apoiam decisões de gestão de pessoas, alocação de equipes e acompanhamento de movimentações internas.
+### Power Query (ETL)
+• Extração, transformação e carga dos dados
+
+• Limpeza e padronização das informações
+
+• Tratamento de inconsistências cadastrais
+
+• Preparação da base para análise
+
+### Power BI
+• Modelagem de dados
+
+• Construção do dashboard interativo
+
+• Criação de visualizações analíticas
+
+• Aplicação de filtros por cargo e área
+
+### DAX (Data Analysis Expressions)
+Criação de medidas para cálculo de:
+
+• Funcionários ativos
+
+• Funcionários desligados
+
+• Taxa de rotatividade (%)
+
+• Indicadores de movimentação de pessoal
+
+Projeto desenvolvido com foco em análise de dados aplicada à área de RH, utilizando práticas de BI amplamente utilizadas no mercado.
 
 ---
 
-## 🔧 Processo de Preparação e Transformação dos Dados
+## Processo de Preparação e Transformação dos Dados
 
 Durante o desenvolvimento do projeto foram realizadas etapas de:
 
-- 🔹 **Limpeza e padronização da base de dados**
-- 🔹 **Tratamento de valores nulos e inconsistências**
-- 🔹 **Criação de colunas e métricas calculadas (DAX)**
-- 🔹 **Cálculo de indicadores de turnover e headcount**
-- 🔹 **Modelagem e organização do dataset para análise**
+• **Limpeza e padronização da base de dados**
+
+• **Tratamento de valores nulos e inconsistências**
+
+• **Criação de colunas e métricas calculadas (DAX)**
+
+• **Cálculo de indicadores de turnover e headcount**
+
+• **Modelagem e organização do dataset para análise**
 
 O fluxo de transformação seguiu princípios de **ETL aplicado ao contexto de Business Intelligence**.
 
 ---
 
-## 🛠️ Ferramentas e Competências Utilizadas
+## Indicadores Analisados (KPIs)
 
-Este projeto demonstra o uso das seguintes tecnologias e habilidades:
+• Total de contratações
 
-- 🟡 **Power BI**
-- 🔵 **Power Query**
-- 📐 **Modelagem de Dados**
-- 📊 **DAX para criação de métricas**
-- 🔁 **ETL aplicado a análise de pessoas**
-- 🔍 **Análise Exploratória de Dados**
-- 🧩 **Storytelling com Dados**
+• Total de funcionários ativos
 
----
+• Total de funcionários desligados
 
+• Taxa de rotatividade (%)
 
-## 🚀 Aprendizados do Projeto
+• Distribuição de funcionários por cargo
 
-Este projeto reforçou boas práticas de:
+• Distribuição por área
 
-- Construção de **painéis gerenciais orientados a indicadores**
-- Estruturação de métricas de RH de forma analítica
-- Transformação de dados brutos em **insights acionáveis**
-- Comunicação visual para suporte à tomada de decisão
+• Funcionários ativos por cidade
+
+• Distribuição por gênero
 
 ---
 
-## 🧑‍🎓 Contexto
+## Principais Insights
 
-Projeto desenvolvido no contexto de **aprendizado prático aplicado a cenários reais de RH**, com foco em evolução de portfólio profissional na área de **Análise de Dados**.
+A análise dos dados revela um total de 217 funcionários ativos, com 234 contratações realizadas no período analisado, evidenciando movimentação relevante no quadro de colaboradores.
+
+A taxa de rotatividade de 7,26% indica um nível controlado de turnover, sugerindo relativa estabilidade da força de trabalho.
+
+Observa-se uma maior concentração de colaboradores em cargos iniciais, como Estagiário e Analista, o que pode indicar uma estratégia de formação e desenvolvimento interno de talentos.
+
+Geograficamente, a maior parte dos funcionários ativos está concentrada em São Paulo, seguida por Recife e Rio de Janeiro, reforçando a centralização das operações nessas regiões.
+
+A distribuição por gênero mostra um equilíbrio próximo entre os grupos, contribuindo para uma análise de diversidade organizacional.
+
+---
+
+### Conclusão
+
+O dashboard fornece uma visão consolidada e estratégica dos principais indicadores de Recursos Humanos, permitindo o acompanhamento contínuo da força de trabalho e da rotatividade.
+
+A análise possibilita:
+
+• Apoio à tomada de decisão na gestão de pessoas
+
+• Identificação de padrões de contratação e desligamento
+
+• Monitoramento da rotatividade
+
+• Análise do perfil organizacional por cargo, área e localização
+
+Este projeto demonstra a aplicação prática de análise de dados e Business Intelligence no contexto de RH, sendo um excelente exemplo para portfólio profissional nas áreas de Dados, BI e People Analytics.
 
 ---
 

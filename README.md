@@ -150,5 +150,5 @@ Este projeto demonstra a aplicação prática de análise de dados e Business In
 
 ## 🏷️ Autor
 
-Projeto desenvolvido por **[Dayane Santos]** como parte do portfólio de estudos  em análise de dados e inteligência de negócios com a Hashtag Treinamentos.
+Projeto desenvolvido por **[Dayane Santos]** como parte do portfólio de estudos  em análise de dados e inteligência de negócios com a Hashtag Treinamentos
 
